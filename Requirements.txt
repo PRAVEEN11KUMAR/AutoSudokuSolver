@@ -1,0 +1,5 @@
+You can install the packages of pygame & Time
+
+
+pip install pygame
+pip install time
